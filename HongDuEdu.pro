@@ -26,8 +26,23 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
         hongduedu.cpp \
-    student.cpp
+    student.cpp \
+    hongduedu.cpp \
+    main.cpp \
+    student.cpp \
+    hongduedu.cpp \
+    main.cpp \
+    student.cpp \
+    db/importdata.cpp
 
 HEADERS += \
         hongduedu.h \
-    student.h
+    student.h \
+    base.h \
+    base.h \
+    hongduedu.h \
+    student.h \
+    base.h \
+    hongduedu.h \
+    student.h \
+    db/importdata.h
